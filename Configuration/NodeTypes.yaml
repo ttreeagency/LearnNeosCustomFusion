@@ -1,0 +1,6 @@
+'Ttree.LearnNeosCustomFusion:WeatherToday':
+  superTypes:
+    'Neos.Neos:Content': true
+  ui:
+    label: 'Weather Plugin, alternative'
+    group: 'plugins'
